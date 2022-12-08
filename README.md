@@ -1,10 +1,12 @@
 # var-evaluation
 
-A Clojure library designed to ... well, that part is up to you.
+Testing the code shared by this tutorial about Clojure evaluation:
+
+https://srasu.srht.site/var-evaluation.html
 
 ## Usage
 
-FIXME
+I am running the project using IntelliJ + Cursive, very manually :) 
 
 ## License
 
